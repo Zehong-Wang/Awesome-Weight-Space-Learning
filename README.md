@@ -155,6 +155,10 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - **[TIP 24]** Learning to Generate Parameters of ConvNets for Unseen Image Data [[PDF](https://arxiv.org/abs/2310.11862)]
 - **[ICML 21]** Personalized Federated Learning using Hypernetworks [[PDF](https://proceedings.mlr.press/v139/shamsian21a.html)]
 - **[CVPR 22]** Sylph: A Hypernetwork Framework  for Incremental Few-shot Object Detection [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_Sylph_A_Hypernetwork_Framework_for_Incremental_Few-Shot_Object_Detection_CVPR_2022_paper.html)]
+- **[ACL-IJCNLP 21]** Parameterefficient multi-task fine-tuning for transformers via shared hypernetworks [[PDF](https://arxiv.org/pdf/2106.04489)]
+- **[NeurIPS 22]** Polyhistor: Parameter-Efficient Multi-Task Adaptation for Dense Vision Tasks [[PDF](https://proceedings.neurips.cc/paper_files/paper/2022/hash/efb02f96766a3b599c76852abf4d42dd-Abstract-Conference.html)]
+- **[NeurIPS 21]** Parameter prediction for unseen deep architectures [[PDF](https://proceedings.neurips.cc/paper/2021/hash/f6185f0ef02dcaec414a3171cd01c697-Abstract.html)]
+- **[ICML 22]** HyperTransformer: Model Generation for Supervised and Semi-Supervised Few-Shot Learning [[PDF](https://proceedings.mlr.press/v162/zhmoginov22a.html)]
 ### Merging
 
 
