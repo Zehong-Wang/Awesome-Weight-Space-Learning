@@ -145,6 +145,16 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - **[NeurIPS-AdvML 24]** Learning to Forget using Hypernetworks [[PDF](https://arxiv.org/abs/2412.00761)]
 - **[CVPR 25]** HyperNet Fields: Efficiently Training Hypernetworks without Ground Truth by Learning Weight Trajectories [[PDF](https://arxiv.org/abs/2412.17040)]
 - LoRA Diffusion: Zero-Shot LoRA Synthesis for Diffusion Model Personalization [[PDF](https://arxiv.org/abs/2412.02352)]
+- Bayesian Hypernetworks [[PDF](https://arxiv.org/abs/1710.04759)]
+- **[ICLR 17]** HyperNetworks [[PDF](https://openreview.net/forum?id=rkpACe1lx)]
+- **[ICLR 19]** Graph HyperNetworks for Neural Architecture Search [[PDF](https://openreview.net/forum?id=rkgW0oA9FX)]
+- **[ICLR 20]** Continual learning with hypernetworks [[PDF](https://openreview.net/forum?id=SJgwNerKvB)]
+- **[ECCV 20]** DHP: Differentiable Meta Pruning via HyperNetworks [[PDF](https://arxiv.org/abs/2003.13683)]
+- **[CVPR 22]** HyperInverter: Improving StyleGAN Inversion via Hypernetwork [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Dinh_HyperInverter_Improving_StyleGAN_Inversion_via_Hypernetwork_CVPR_2022_paper.html)]
+- **[CVPR 22]** HyperStyle: StyleGAN Inversion With HyperNetworks for Real Image Editing [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Alaluf_HyperStyle_StyleGAN_Inversion_With_HyperNetworks_for_Real_Image_Editing_CVPR_2022_paper.html)]
+- **[TIP 24]** Learning to Generate Parameters of ConvNets for Unseen Image Data [[PDF](https://arxiv.org/abs/2310.11862)]
+- **[ICML 21]** Personalized Federated Learning using Hypernetworks [[PDF](https://proceedings.mlr.press/v139/shamsian21a.html)]
+- **[CVPR 22]** Sylph: A Hypernetwork Framework  for Incremental Few-shot Object Detection [[PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_Sylph_A_Hypernetwork_Framework_for_Incremental_Few-Shot_Object_Detection_CVPR_2022_paper.html)]
 ### Merging
 
 
