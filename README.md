@@ -81,6 +81,7 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - Weight-Space Linear Recurrent Neural Networks [[PDF](https://arxiv.org/abs/2506.01153)] [[Code](https://github.com/ddrous/warp)]
 - GNN-based Unified Deep Learning [[PDF](https://arxiv.org/abs/2508.10583)] [[Code](https://github.com/basiralab/uGNN)]
 - Cross-Model Semantics in Representation Learning [[PDF](https://arxiv.org/abs/2508.03649)]
+- **[ICLR 23]** Deep Learning on Implicit Neural Representations of Shapes [[PDF](https://openreview.net/forum?id=OoOIW-3uadi)] [[Code](https://github.com/CVLAB-Unibo/inr2vec)]
 
 ### Retrieval
 
