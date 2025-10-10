@@ -84,6 +84,9 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - **[ICLR 23]** Deep Learning on Implicit Neural Representations of Shapes [[PDF](https://openreview.net/forum?id=OoOIW-3uadi)] [[Code](https://github.com/CVLAB-Unibo/inr2vec)]
 - **[ECAL 20]** Classifying the classifier: dissecting the weight space of neural networks [[PDF](https://arxiv.org/abs/2002.05688)] [[Code](https://github.com/gabrieleilertsen/nws)]
 - **[ICML 22]** From data to functa: Your data point is a function and you can treat it like one [[PDF](https://proceedings.mlr.press/v162/dupont22a)] [[Code](https://github.com/google-deepmind/functa)]
+- **[ECCV 24]** ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs [[PDF](https://arxiv.org/abs/2311.13600)] [[Code](https://github.com/mkshing/ziplora-pytorch)]
+
+
 - **[]**  [[PDF]()] [[Code]()]
 
 ### Retrieval
