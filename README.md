@@ -65,7 +65,6 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 
 ### Representation
 
-
 - **[ICML-TAGML 23]** Neural Networks Are Graphs! Graph Neural Networks for Equivariant Processing of Neural Networks [[PDF](https://openreview.net/forum?id=sCkLwG9wjy)]
 - **[NeurIPS 24]** Set-based Neural Network Encoding Without Weight Tying [[PDF](https://arxiv.org/abs/2305.16625)]
 - **[ICLR 24]** Graph Metanetworks for Processing Diverse Neural Architectures [[PDF](https://arxiv.org/abs/2312.04501)]
@@ -89,7 +88,9 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - **[ECCV 24]** ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs [[PDF](https://arxiv.org/abs/2311.13600)] [[Code](https://github.com/mkshing/ziplora-pytorch)]
 
 
-- **[]**  [[PDF]()] [[Code]()]
+### Unified Learning
+
+- GNN-based Unified Deep Learning [[PDF](https://arxiv.org/abs/2508.10583)] [[Code](https://github.com/basiralab/uGNN)]
 
 ### Retrieval
 
@@ -168,6 +169,8 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - **[NeurIPS 22]** Polyhistor: Parameter-Efficient Multi-Task Adaptation for Dense Vision Tasks [[PDF](https://proceedings.neurips.cc/paper_files/paper/2022/hash/efb02f96766a3b599c76852abf4d42dd-Abstract-Conference.html)]
 - **[NeurIPS 21]** Parameter prediction for unseen deep architectures [[PDF](https://proceedings.neurips.cc/paper/2021/hash/f6185f0ef02dcaec414a3171cd01c697-Abstract.html)] [[Code](https://github.com/facebookresearch/ppuda)]
 - **[ICML 22]** HyperTransformer: Model Generation for Supervised and Semi-Supervised Few-Shot Learning [[PDF](https://proceedings.mlr.press/v162/zhmoginov22a.html)] [[Code](https://github.com/google-research/google-research/tree/master/hypertransformer)]
+- **[AISTATS 22]** Generative Models as Distributions of Functions [[PDF](https://proceedings.mlr.press/v151/dupont22a.html)] [[Code](https://github.com/EmilienDupont/neural-function-distributions)]
+
 ### Merging
 
 
@@ -212,3 +215,7 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - **[PhD Thesis]** Hyper-Representations: Learning from Populations of Neural Networks [[PDF](https://arxiv.org/abs/2410.05107)]
 - **[PhD Thesis]** Acquiring and Adapting Priors for Novel Tasks via Neural Meta-Architectures [[PDF](https://arxiv.org/abs/2507.10446)]
 - **[MSc Thesis]** Geometric Flow Models over Neural Network Weights [[PDF](https://arxiv.org/abs/2504.03710)] [[Code](https://github.com/ege-erdogan/weightflow)]
+
+
+
+<!-- - **[]**  [[PDF]()] [[Code]()] -->
