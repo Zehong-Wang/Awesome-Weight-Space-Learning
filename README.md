@@ -85,6 +85,7 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - **[ICML 22]** From data to functa: Your data point is a function and you can treat it like one [[PDF](https://proceedings.mlr.press/v162/dupont22a)] [[Code](https://github.com/google-deepmind/functa)]
 - **[ICLR 23]** NeRN: Learning Neural Representations for Neural Networks [[PDF](https://openreview.net/forum?id=9gfir3fSy3J)] [[Code](https://github.com/maorash/NeRN?utm_source=catalyzex.com)]
 - **[NeurIPS 24]** Interpreting the Weight Space of Customized Diffusion Models [[PDF](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f85364507054c257959c2011c28bfc0d-Abstract-Conference.html)] [[Code](https://github.com/snap-research/weights2weights)]
+- Learning Model Representations Using Publicly Available Model Hubs [[PDF](https://arxiv.org/abs/2510.02096)]
 
 
 ### Unified Learning
