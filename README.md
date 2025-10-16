@@ -14,10 +14,11 @@ Weight Space Learning is a research perspective that shifts focus from studying 
   - [Weight Space Understanding](#weight-space-understanding)
     - [Symmetry](#symmetry)
     - [Initialization](#initialization)
-  - [Weight Space Discrimination](#weight-space-discrimination)
-    - [Representation](#representation)
-    - [Retrieval](#retrieval)
-    - [Behavior Prediction](#behavior-prediction)
+  - [Weight Space Representation](#weight-space-representation)
+    - [Property Prediction](#property-prediction)
+    - [Unified Learning](#unified-learning)
+    - [Model Retrieval](#model-retrieval)
+    - [Model Editing](#model-editing)
   - [Weight Space Generation](#weight-space-generation)
     - [Generative Model](#generative-model)
     - [HyperNet](#hypernet)
@@ -60,7 +61,9 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - **[CVPR 25]** WAVE: Weight Templates for Adaptive Initialization of Variable-sized Models [[PDF](https://arxiv.org/abs/2406.17503)] [[Code](https://github.com/fu-feng/WAVE)]
 - **[ECCV 24]** Efficient Training with Denoised Neural Weights [[PDF](https://arxiv.org/abs/2407.11966)] [[Code](https://yifanfanfanfan.github.io/denoised-weights/)]
 - **[ICLR 25]** RECAST: Reparameterized, Compact weight Adaptation for Sequential Tasks [[PDF](https://arxiv.org/abs/2411.16870)] [[Code](https://github.com/appledora/RECAST_ICLR25)]
-## Weight Space Discrimination
+
+
+## Weight Space Representation
 
 
 ### Representation
@@ -88,15 +91,7 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - Learning Model Representations Using Publicly Available Model Hubs [[PDF](https://arxiv.org/abs/2510.02096)]
 
 
-### Unified Learning
-
-- GNN-based Unified Deep Learning [[PDF](https://arxiv.org/abs/2508.10583)] [[Code](https://github.com/basiralab/uGNN)]
-
-### Retrieval
-
-- Can this Model Also Recognize Dogs? Zero-Shot Model Search from Weights [[PDF](https://arxiv.org/abs/2502.09619)]
-
-### Behavior Prediction
+### Property Prediction
 
 - Predicting Neural Network Accuracy from Weights [[PDF](https://arxiv.org/abs/2002.11448)] [[Code](https://github.com/google-research/google-research/tree/master/dnn_predict_accuracy)]
 - **[NeurIPS 21]** Hyper-Representations: Self-Supervised Representation Learning on Neural Network Weights for Model Characteristic Prediction [[PDF](https://arxiv.org/abs/2110.15288)] [[Code](https://github.com/HSG-AIML/NeurIPS_2021-Weight_Space_Learning)]
@@ -108,6 +103,27 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - Towards Meta-Models for Automated Interpretability [[PDF](https://openreview.net/forum?id=1zDOkoZAtl&utm_source=chatgpt.com)]
 - Learning on LoRAs: GL-Equivariant Processing of Low-Rank Weight Spaces for Large Finetuned Models [[PDF](https://arxiv.org/abs/2410.04207)]
 - **[Computer Networks]** Model Parameter Prediction Method for Accelerating Distributed DNN Training [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1389128624007151?casa_token=9FktNWM4EnoAAAAA:5un_JwTLDCaQe1F4Rq4Z6BDAPbY6qI0VBlS-OMIzG-AdRcU3FiaWMol4WoTB6KA90UfbEUip)]
+
+### Unified Learning
+
+- GNN-based Unified Deep Learning [[PDF](https://arxiv.org/abs/2508.10583)] [[Code](https://github.com/basiralab/uGNN)]
+- **[ICML 22]** From data to functa: Your data point is a function and you can treat it like one [[PDF](https://proceedings.mlr.press/v162/dupont22a)] [[Code](https://github.com/JurrivhLeon/Functa_pytorch_version)]
+- Spatial Functa: Scaling Functa to ImageNet Classification and Generation [[PDF](https://arxiv.org/abs/2302.03130)] [[Code](https://github.com/samuelepapa/spatial_functa)]
+- Weight Space Representation Learning on Diverse NeRF Architectures [[PDF](https://arxiv.org/abs/2502.09623)]
+
+### Model Retrieval
+
+- Can this Model Also Recognize Dogs? Zero-Shot Model Search from Weights [[PDF](https://arxiv.org/abs/2502.09619)]
+- **[CVPR 25]** Learning on Model Weights using Tree Experts [[PDF](https://openaccess.thecvf.com/content/CVPR2025/html/Horwitz_Learning_on_Model_Weights_using_Tree_Experts_CVPR_2025_paper.html)] [[Code](https://github.com/eliahuhorwitz/ProbeX)]
+- We Should Chart an Atlas of All the World's Models [[PDF](https://arxiv.org/abs/2503.10633)]
+
+### Model Editing
+
+- **[NeurIPS 24]** Interpreting the Weight Space of Customized Diffusion Models [[PDF](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f85364507054c257959c2011c28bfc0d-Abstract-Conference.html)]
+- **[ICML 24]** Towards Scalable and Versatile Weight Space Learning [[PDF](https://proceedings.mlr.press/v235/schurholt24a.html)] [[Code](https://github.com/HSG-AIML/SANE)]
+
+
+
 ## Weight Space Generation
 
 
