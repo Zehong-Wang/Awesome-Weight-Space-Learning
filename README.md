@@ -16,6 +16,7 @@ Weight Space Learning is a research perspective that shifts focus from studying 
     - [Initialization](#initialization)
   - [Weight Space Representation](#weight-space-representation)
     - [Property Prediction](#property-prediction)
+    - [Implicit Neural Representation](#implicit-neural-representation)
     - [Unified Learning](#unified-learning)
     - [Model Retrieval](#model-retrieval)
     - [Model Editing](#model-editing)
@@ -89,6 +90,20 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - **[ICLR 23]** NeRN: Learning Neural Representations for Neural Networks [[PDF](https://openreview.net/forum?id=9gfir3fSy3J)] [[Code](https://github.com/maorash/NeRN?utm_source=catalyzex.com)]
 - **[NeurIPS 24]** Interpreting the Weight Space of Customized Diffusion Models [[PDF](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f85364507054c257959c2011c28bfc0d-Abstract-Conference.html)] [[Code](https://github.com/snap-research/weights2weights)]
 - Learning Model Representations Using Publicly Available Model Hubs [[PDF](https://arxiv.org/abs/2510.02096)]
+
+
+### Implicit Neural Representation
+- **[ICLR-WSL 25]** Adversarial Robustness in Parameter-Space Classifiers [[PDF](https://arxiv.org/abs/2502.20314)] [[Code](https://github.com/tamirshor7/Parameter-Space-Attack-Suite)]
+- **[ICLR 23]** Deep Learning on Implicit Neural Representations of Shapes [[PDF](https://openreview.net/forum?id=OoOIW-3uadi)] [[Code](https://github.com/CVLAB-Unibo/inr2vec)]
+- **[CVPR 25]** Few-shot Implicit Function Generation via Equivariance [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_Few-shot_Implicit_Function_Generation_via_Equivariance_CVPR_2025_paper.pdf)] [[Code](https://github.com/JeanDiable/EquiGen)]
+- **[ICML 22]** From data to functa: Your data point is a function and you can treat it like one [[PDF](https://proceedings.mlr.press/v162/dupont22a)] [[Code](https://github.com/JurrivhLeon/Functa_pytorch_version)]
+- From MLP to NeoMLP: Leveraging Self-Attention for Neural Fields [[PDF](https://arxiv.org/abs/2412.08731)] [[Code](https://github.com/mkofinas/neomlp)]
+- **[ICCV 23]** HyperDiffusion: Generating Implicit Neural Fields with Weight-Space Diffusion [[PDF](https://arxiv.org/abs/2303.17015)] [[Code](https://ziyaerkoc.com/hyperdiffusion/)]
+- **[ICML 24]** Improved Generalization of Weight Space Networks via Augmentations [[PDF](https://arxiv.org/abs/2402.04081)] [[Code](https://github.com/AvivSham/deep-weight-space-augmentations)]
+- **[NeurIPS 22]** Signal Processing for Implicit Neural Representations [[PDF](Signal Processing for Implicit Neural Representations)] [[Code](https://github.com/VITA-Group/INSP)]
+- Spatial Functa: Scaling Functa to ImageNet Classification and Generation [[PDF](https://arxiv.org/abs/2302.03130)] [[Code](https://github.com/samuelepapa/spatial_functa)]
+- **[ICME 24]** Encoding Semantic Priors into the Weights of Implicit Neural Representation [[PDF](https://arxiv.org/abs/2406.04178)]
+- **[NeurIPS 23]** Neural Functional Transformers [[PDF](https://arxiv.org/abs/2305.13546)] [[Code](https://github.com/AllanYangZhou/nfn)]
 
 
 ### Property Prediction
