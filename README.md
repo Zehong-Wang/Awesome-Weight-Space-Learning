@@ -58,13 +58,10 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 ## Weight Space Understanding
 
 
-### Symmetry
+### Structural Foundations
 
 
-#### Structural Foundations
-
-
-- **Invariance**
+#### Invariance
 
 
 - **[ICML 24]** Improved generalization of weight space networks via augmentations [[PDF](https://arxiv.org/abs/2402.04081)] [[Code](https://github.com/AvivSham/deep-weight-space-augmentations)]
@@ -76,7 +73,7 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - **[ICML 21]** Geometry of the loss landscape in overparameterized neural networks: Symmetries and invariances [[PDF](https://arxiv.org/abs/2105.12221)]
 - **[2025]** Understanding Mode Connectivity via Parameter Space Symmetry [[PDF](https://arxiv.org/abs/2505.23681)]
 
-- **Equivariance**
+#### Equivariance
 
 
 - **[2021]** Universal approximation and model compression for radial neural networks [[PDF](https://arxiv.org/abs/2107.02550)]
@@ -86,10 +83,10 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - **[NeurIPS 24]** Universal neural functionals [[PDF](https://arxiv.org/abs/2402.05232)] [[Code](https://github.com/AllanYangZhou/universal_neural_functional)]
 - **[CVPR 25]** Few-shot Implicit Function Generation via Equivariance [[PDF](https://arxiv.org/abs/2501.01601)] [[Code](https://github.com/JeanDiable/EquiGen)]
 
-#### Practical Implications
+### Practical Implications
 
 
-- **Model Compression**
+#### Model Compression
 
 
 - **[2021]** Lossless Compression of Structured Convolutional Models via Lifting [[PDF](https://arxiv.org/abs/2007.06567)] [[Code](https://github.com/GustikS/NeuraLifting)]
@@ -98,7 +95,7 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - **[MIPR 24]** TQCompressor: improving tensor decomposition methods in neural networks via permutations [[PDF](https://arxiv.org/abs/2401.16367)]
 - **[ICLR 24]** Merge, Then Compress: Demystify Efficient {SM}oE with Hints from Its Routing Policy [[PDF](https://arxiv.org/abs/2310.01334)]
 
-- **Model Optimization**
+#### Model Optimization
 
 
 - **[TMLR 23]** Weight-balancing fixes and flows for deep learning [[PDF](https://openreview.net/pdf?id=uaHyXxyp2r)]
@@ -109,7 +106,7 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - **[Mathematics 23]** Neural optimizer adaptations for weight spaces [[PDF](https://arxiv.org/abs/2012.01118)]
 - **[NeurIPS 20]** Optimizing deep models: practical methods [[PDF](https://arxiv.org/abs/2009.02439)] [[Code](https://github.com/IBM/NeuronAlignment)]
 
-- **Weight Space Augmentation**
+#### Weight Space Augmentation
 
 
 - **[NeurIPS-NeurReps 23]** Data Augmentations in Deep Weight Spaces [[PDF](https://arxiv.org/abs/2311.08851)]
@@ -121,10 +118,10 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 ## Weight Space Representation
 
 
-#### Representation Approaches
+### Representation Approaches
 
 
-- **Model-based**
+#### Model-based
 
 
 - **[ECAL 20]** Classifying the classifier: dissecting the weight space of neural networks [[PDF](https://arxiv.org/abs/2002.05688)] [[Code](https://github.com/gabrieleilertsen/nws)]
@@ -159,10 +156,10 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - **[ICML 24]** Learning Useful Representations of Recurrent Neural Network Weight Matrices [[PDF](https://arxiv.org/abs/2403.11998)]
 - **[CVPR 25]** Learning on Model Weights using Tree Experts [[PDF](https://arxiv.org/abs/2410.13569)] [[Code](https://horwitz.ai/probex/)]
 
-#### Practical Implications
+### Practical Implications
 
 
-- **Function Prediction**
+#### Function Prediction
 
 
 - **[ECAL 20]** Classifying the Classifier: Dissecting the Weight Space of Neural Networks [[PDF](https://arxiv.org/abs/2002.05688)] [[Code](https://github.com/gabrieleilertsen/nws)]
@@ -175,14 +172,14 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - **[ICML 24]** Towards Scalable and Versatile Weight Space Learning [[PDF](https://arxiv.org/abs/2406.09997)] [[Code](https://github.com/HSG-AIML/SANE)]
 - **[2025]** Learning Model Representations Using Publicly Available Model Hubs [[PDF](https://arxiv.org/abs/2510.02096)]
 
-- **Model Retrieval**
+#### Model Retrieval
 
 
 - **[2025]** Can this Model Also Recognize Dogs? Zero-Shot Model Search from Weights [[PDF](https://arxiv.org/abs/2502.09619)]
 - **[CVPR 25]** Learning on Model Weights using Tree Experts [[PDF](https://arxiv.org/abs/2410.13569)] [[Code](https://horwitz.ai/probex/)]
 - **[2025]** We Should Chart an Atlas of All the World's Models [[PDF](https://arxiv.org/abs/2503.10633)] [[Code](https://horwitz.ai/model-atlas)]
 
-- **Model Editing**
+#### Model Editing
 
 
 - **[NeurIPS 24]** Interpreting the Weight Space of Customized Diffusion Models [[PDF](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f85364507054c257959c2011c28bfc0d-Abstract-Conference.html)] [[Code](https://github.com/snap-research/weights2weights)]
@@ -196,10 +193,10 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 ## Weight Space Generation
 
 
-#### Generation Approaches
+### Generation Approaches
 
 
-- **Hypernetworks**
+#### Hypernetworks
 
 
 - **[ICLR 17]** HyperNetworks  [[PDF](https://arxiv.org/abs/1609.09106)] [[Code](https://github.com/g1910/HyperNetworks)]
@@ -226,7 +223,7 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - **[2018]** Approximating the predictive distribution via adversarially-trained hypernetworks [[PDF](https://chrhenning.github.io/assets/pdf/BDL18Poster.pdf)]
 - **[ICML 19]** Hypergan: A generative model for diverse, performant neural networks [[PDF](https://arxiv.org/abs/1901.11058)] [[Code](https://github.com/simeetnayan81/hypergan-pytorch)]
 
-- **Generative Models**
+#### Generative Models
 
 
 - **[NeurIPS 21]** Self-supervised representation learning on neural network weights for model characteristic prediction [[PDF](https://arxiv.org/abs/2110.15288)] [[Code](https://github.com/HSG-AIML/NeurIPS_2021-Weight_Space_Learning)]
@@ -251,10 +248,10 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - **[ICLR 25]** Diffusion-Based Neural Network Weights Generation [[PDF](https://arxiv.org/abs/2402.18153)] [[Code](https://openreview.net/forum?id=j8WHjM9aMm)]
 
 
-#### Practical Implications
+### Practical Implications
 
 
-- **Conditional Weight Generation**
+#### Conditional Weight Generation
 
 
 - **[CVPR 22]** Sylph: A Hypernetwork Framework  for Incremental Few-shot Object Detection [[PDF](https://arxiv.org/abs/2203.13903)]
@@ -262,14 +259,14 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - **[MM 25]** Text2Weight: Bridging Natural Language and Neural Network Weight Spaces [[PDF](https://arxiv.org/abs/2508.13633)]
 - **[2025]** Continual Adaptation: Environment-Conditional Parameter Generation for Object Detection in Dynamic Scenarios [[PDF](https://arxiv.org/abs/2506.24063)]
 
-- **Real-Time Weight Optimization**
+#### Real-Time Weight Optimization
 
 
 - **[CVPR 21]** Hyperseg: Patch-wise hypernetwork for real-time semantic segmentation [[PDF](https://arxiv.org/abs/2012.11582)]
 - **[CVPR 22]** HyperStyle: StyleGAN Inversion With HyperNetworks for Real Image Editing [[PDF](https://arxiv.org/abs/2111.15666)] [[Code](https://github.com/yuval-alaluf/hyperstyle)]
 - **[ICML-EXAIT 25]** Reimagining Parameter Space Exploration with Diffusion Models [[PDF](https://arxiv.org/abs/2506.17807)]
 
-- **Model Merging**
+#### Model Merging
 
 
 - **[NeurIPS 22]** Hyper-Representations as Generative Models: Sampling Unseen Neural Network Weights [[PDF](https://arxiv.org/abs/2209.14733)] [[Code](https://github.com/HSG-AIML/NeurIPS_2022-Generative_Hyper_Representations)]
@@ -277,7 +274,7 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - **[ICML 24]** Equivariant Deep Weight Space Alignment [[PDF](https://arxiv.org/abs/2310.13397)] [[Code](https://github.com/AvivNavon/deep-align)]
 - **[ICML 23]** Equivariant Architectures for Learning in Deep Weight Spaces [[PDF](https://arxiv.org/abs/2301.12780)] [[Code](https://github.com/AvivNavon/DWSNets)]
 
-- **Weight Initialization**
+#### Weight Initialization
 
 
 - **[CVPR 24]** Hyperdreambooth: Hypernetworks for fast personalization of text-to-image models [[PDF](https://arxiv.org/abs/2307.06949)] [[Code](https://github.com/JiauZhang/hyperdreambooth)]
@@ -285,20 +282,20 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - **[ICML 23]** Can We Scale Transformers to Predict Parameters of Diverse ImageNet Models? [[PDF](https://arxiv.org/abs/2303.04143)] [[Code](https://github.com/SamsungSAILMontreal/ghn3)]
 - **[ICLR 25]** Accelerating Training with Neuron Interaction and Nowcasting Networks [[PDF](https://arxiv.org/abs/2409.04434)] [[Code](https://github.com/SamsungSAILMontreal/nino)]
 
-- **Training Acceleration**
+#### Training Acceleration
 
 
 - **[ICML 23]** Learning to Boost Training by Periodic Nowcasting Near Future Weights [[PDF](https://openreview.net/forum?id=zHDdkb8LRQ)] [[Code](https://github.com/jjh6297/WNN)]
 - **[ICLR 25]** Accelerating Training with Neuron Interaction and Nowcasting Networks [[PDF](https://arxiv.org/abs/2409.04434)] [[Code](https://github.com/SamsungSAILMontreal/nino)]
 
-- **Data Generation**
+#### Data Generation
 
 
 - **[AISTATS 22]** Generative Models as Distributions of Functions [[PDF](https://proceedings.mlr.press/v151/dupont22a.html)] [[Code](https://github.com/EmilienDupont/neural-function-distributions)]
 - **[ECCV 24]** Neural Metamorphosis [[PDF](https://arxiv.org/abs/2410.11878)] [[Code](https://adamdad.github.io/neumeta/)]
 - **[CVPR 21]** pi-gan: Periodic implicit generative adversarial networks for 3d-aware image synthesis [[PDF](https://arxiv.org/abs/2012.00926)] [[Code](https://github.com/ssumin6/pigan)] 
 
-## Weight Space Understanding
+<!-- ## Weight Space Understanding
 
 
 ### Symmetry
@@ -475,7 +472,7 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 
 
 - **[NeurIPS 20]** Meta-Consolidation for Continual Learning [[PDF](https://arxiv.org/abs/2010.00352)] [[Code](https://github.com/JosephKJ/merlin)]
-- **[CVPR 25]** PLeaS — Merging Models with Permutations and Least Squares [[PDF](https://arxiv.org/abs/2407.02447)] [[Code](https://github.com/SewoongLab/PLeaS-Merging)]
+- **[CVPR 25]** PLeaS — Merging Models with Permutations and Least Squares [[PDF](https://arxiv.org/abs/2407.02447)] [[Code](https://github.com/SewoongLab/PLeaS-Merging)] -->
 
 
 ## Others
