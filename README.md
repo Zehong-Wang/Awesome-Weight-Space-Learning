@@ -46,12 +46,8 @@ Weight Space Learning is a research perspective that shifts focus from studying 
     - [Federated Learning](#federated-learning)
     - [Neural Architecture Search](#neural-architecture-search)
   - [Benchamarks](#benchmarks)
-    - [Multilayer Perceptrons](#multilayer-perceptrons)
-    - [Convolutional Neural Networks](#convolutional-neural-networks)
-    - [Recurrent Neural Networks](#recurrent-neural-networks)
-    - [Transformers](#transformers)
-  - [Others](#others)
     - [Model Zoo](#model-zoo)
+  - [Others](#others)
     - [Survey](#survey)
     - [Thesis](#thesis)
 
@@ -182,7 +178,7 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 #### Model Editing
 
 
-- **[NeurIPS 24]** Interpreting the Weight Space of Customized Diffusion Models [[PDF](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f85364507054c257959c2011c28bfc0d-Abstract-Conference.html)] [[Code](https://github.com/snap-research/weights2weights)]
+- **[NeurIPS 24]** Interpreting the Weight Space of Customized Diffusion Models [[PDF](https://arxiv.org/abs/2406.09413)] [[Code](https://snap-research.github.io/weights2weights/)]
 - **[ICML 24]** Towards Scalable and Versatile Weight Space Learning [[PDF](https://arxiv.org/abs/2406.09997)] [[Code](https://github.com/HSG-AIML/SANE)]
 - **[NeurIPS 23]** Permutation Equivariant Neural Functionals [[PDF](https://arxiv.org/abs/2302.14040)] [[Code](https://github.com/AllanYangZhou/nfn)]
 - **[ICLR 24]** Graph Metanetworks for Processing Diverse Neural Architectures [[PDF](https://arxiv.org/abs/2312.04501)]
@@ -344,18 +340,24 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 ## Benchmarks
 
 
+### Model Zoo
+
+
 - **[NeurIPS 22]** Model Zoos: A Dataset of Diverse Populations of Neural Network Models [[PDF](https://arxiv.org/abs/2209.14764)] [[Code](https://github.com/ModelZoos/ModelZooDataset)]
 - **[ICLR-SNN 23]** Sparsified Model Zoo Twins: Investigating Populations of Sparsified Neural Network Models [[PDF](https://arxiv.org/abs/2304.13718)] [[Code](https://github.com/ModelZoos/ModelZooDataset)]
-- **[EDBT 25]** Model Lakes [[PDF](https://arxiv.org/abs/2403.02327)]
 - **[ICLR 25]** Unsupervised Model Tree Heritage Recovery [[PDF](https://arxiv.org/abs/2405.18432)] [[Code](https://horwitz.ai/mother)]
 - **[NeurIPS 24]** Implicit-Zoo: A Large-Scale Dataset of Neural Implicit Functions for 2D Images and 3D Scenes [[PDF](https://arxiv.org/abs/2406.17438)] [[Code](https://github.com/qimaqi/Implicit-Zoo/)]
 - **[NeurIPS 24]** Interpreting the Weight Space of Customized Diffusion Models [[PDF](https://arxiv.org/abs/2406.09413)] [[Code](https://snap-research.github.io/weights2weights/)]
-- Model Zoos for Benchmarking Phase Transitions in Neural Networks [[PDF](https://openreview.net/forum?id=JlkqReTftJ)]
-- We Should Chart an Atlas of All the World's Models [[PDF](https://arxiv.org/abs/2503.10633)] [[Code](https://horwitz.ai/model-atlas)]
+<!-- - Model Zoos for Benchmarking Phase Transitions in Neural Networks [[PDF](https://openreview.net/forum?id=JlkqReTftJ)] -->
+<!-- - We Should Chart an Atlas of All the World's Models [[PDF](https://arxiv.org/abs/2503.10633)] [[Code](https://horwitz.ai/model-atlas)] -->
 - Scaling LLaNA: Advancing NeRF-Language Understanding Through Large-Scale Training [[PDF](https://arxiv.org/abs/2504.13995)] [[Code](https://andreamaduzzi.github.io/llana/)]
 - **[ICLR-WSL 25]** A Model Zoo of Vision Transformers [[PDF](https://arxiv.org/abs/2504.10231)] [[Code](http://github.com/ModelZoos/ViTModelZoo)]
 - **[Electronics]** An Open Dataset of Neural Networks for Hypernetwork Research [[PDF](https://www.mdpi.com/2079-9292/14/14/2831)]
 - **[ICCS 25]** Towards Weight-Space Interpretation of Low-Rank Adapters for Diffusion Models [[PDF](https://www.iccs-meeting.org/archive/iccs2025/papers/159030108.pdf)]
+- **[ECAL 20]** Classifying the classifier: dissecting the weight space of neural networks [[PDF](https://arxiv.org/abs/2002.05688)] [[Code](https://github.com/gabrieleilertsen/nws)]
+- Predicting Neural Network Accuracy from Weights [[PDF](https://arxiv.org/abs/2002.11448)] [[Code](https://github.com/google-research/google-research/tree/master/dnn_predict_accuracy)]
+- **[NeurIPS 21]** Self-supervised representation learning on neural network weights for model characteristic prediction [[PDF](https://arxiv.org/abs/2110.15288)] [[Code](https://github.com/HSG-AIML/NeurIPS_2021-Weight_Space_Learning)]
+- **[ICML 24]** Learning Useful Representations of Recurrent Neural Network Weight Matrices [[PDF](https://arxiv.org/abs/2403.11998)]
 
 
 ## Others
@@ -370,6 +372,7 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities [[PDF](https://arxiv.org/abs/2408.07666)]
 - Where Do We Stand with Implicit Neural Representations? A Technical and Performance Survey [[PDF](https://arxiv.org/abs/2411.03688)]
 - Symmetry in Neural Network Parameter Spaces [[PDF](https://arxiv.org/abs/2506.13018)]
+- **[EDBT 25]** Model Lakes [[PDF](https://arxiv.org/abs/2403.02327)]
 
 
 ### Thesis
