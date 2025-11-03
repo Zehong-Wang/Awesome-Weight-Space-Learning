@@ -147,7 +147,7 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - **[NeurIPS 24]** Scale equivariant graph metanetworks [[PDF](https://arxiv.org/abs/2406.10685)] [[Code](https://github.com/jkalogero/scalegmn)]
 - **[2025]** Weight Space Representation Learning on Diverse NeRF Architectures [[PDF](https://arxiv.org/abs/2502.09623)]
 
-- **Model-free**
+#### Model-free
 
 
 - **[2025]** Can this Model Also Recognize Dogs? Zero-Shot Model Search from Weights [[PDF](https://arxiv.org/abs/2502.09619)]
@@ -204,13 +204,13 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - **[2017]** Implicit weight uncertainty in neural networks [[PDF](https://arxiv.org/abs/1711.01297)] [[Code](https://github.com/pawni/BayesByHypernet)]
 - **[ICLR 18]** SMASH: One-Shot Model Architecture Search through HyperNetworks [[PDF](https://arxiv.org/abs/1708.05344)] [[Code](https://github.com/Lornatang/SMASH-PyTorch)]
 - **[ICLR 19]** Graph HyperNetworks for Neural Architecture Search [[PDF](https://arxiv.org/abs/1810.05749)]
-- **[NeurIPS 21]** Parameter prediction for unseen deep architectures [[PDF](https://proceedings.neurips.cc/paper/2021/hash/f6185f0ef02dcaec414a3171cd01c697-Abstract.html)] [[Code](https://github.com/facebookresearch/ppuda)]
-- **[ICLR 20]** Continual learning with hypernetworks [[PDF](https://openreview.net/forum?id=SJgwNerKvB)] [[Code](https://github.com/chrhenning/hypercl)]
+- **[NeurIPS 21]** Parameter prediction for unseen deep architectures [[PDF](https://arxiv.org/abs/2110.13100)] [[Code](https://github.com/facebookresearch/ppuda)]
+- **[ICLR 20]** Continual learning with hypernetworks [[PDF](https://arxiv.org/abs/1906.00695)] [[Code](https://github.com/chrhenning/hypercl)]
 - **[ECCV 20]** DHP: Differentiable Meta Pruning via HyperNetworks [[PDF](https://arxiv.org/abs/2003.13683)] [[Code](https://github.com/ofsoundof/dhp)]
 - **[CVPR 22]** Sylph: A Hypernetwork Framework  for Incremental Few-shot Object Detection [[PDF](https://arxiv.org/abs/2203.13903)]
 - **[TIP 24]** Learning to Generate Parameters of ConvNets for Unseen Image Data [[PDF](https://arxiv.org/abs/2310.11862)] [[Code](https://github.com/tulerfeng/PudNet)]
 - **[ICCV 19]** Deep meta functionals for shape representation [[PDF](https://arxiv.org/abs/1908.06277)]
-- **[ICML 21]** Personalized Federated Learning using Hypernetworks [[PDF](https://proceedings.mlr.press/v139/shamsian21a.html)] [[Code](https://github.com/AvivSham/pFedHN)]
+- **[ICML 21]** Personalized Federated Learning using Hypernetworks [[PDF](https://arxiv.org/abs/2103.04628)] [[Code](https://github.com/AvivSham/pFedHN)]
 - **[NeurIPS-ML 21]** Meta-learning via hypernetworks [[PDF](https://meta-learn.github.io/2020/papers/38_paper.pdf)]
 - **[CVPR 21]** Hyperseg: Patch-wise hypernetwork for real-time semantic segmentation [[PDF](https://arxiv.org/abs/2012.11582)]
 - **[ACL-IJCNLP 21]** Parameterefficient multi-task fine-tuning for transformers via shared hypernetworks [[PDF](https://arxiv.org/pdf/2106.04489)] [[Code](https://github.com/rabeehk/hyperformer)]
@@ -295,6 +295,93 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - **[ECCV 24]** Neural Metamorphosis [[PDF](https://arxiv.org/abs/2410.11878)] [[Code](https://adamdad.github.io/neumeta/)]
 - **[CVPR 21]** pi-gan: Periodic implicit generative adversarial networks for 3d-aware image synthesis [[PDF](https://arxiv.org/abs/2012.00926)] [[Code](https://github.com/ssumin6/pigan)] 
 
+
+
+
+## Applications to Related Domains
+
+### Implicit Neural Representations
+- **[NeurIPS-NeurReps 23]** Data Augmentations in Deep Weight Spaces [[PDF](https://arxiv.org/abs/2311.08851)]
+- **[ICML 24]** Improved Generalization of Weight Space Networks via Augmentations [[PDF](https://arxiv.org/abs/2402.04081)] [[Code](https://github.com/AvivSham/deep-weight-space-augmentations)]
+- **[CVPR 25]** Few-shot Implicit Function Generation via Equivariance [[PDF](https://arxiv.org/abs/2501.01601)] [[Code](https://github.com/JeanDiable/EquiGen)]
+- **[NeurIPS 23]** Neural Functional Transformers [[PDF](https://arxiv.org/abs/2305.13546)] [[Code](https://github.com/AllanYangZhou/nfn)]
+- **[ICLR 23]** Deep Learning on Implicit Neural Representations of Shapes [[PDF](https://arxiv.org/abs/2302.05438)] [[Code](https://github.com/CVLAB-Unibo/inr2vec)]
+- **[ICML 22]** From data to functa: Your data point is a function and you can treat it like one [[PDF](https://arxiv.org/abs/2201.12204)] [[Code](https://github.com/JurrivhLeon/Functa_pytorch_version)]
+- Spatial Functa: Scaling Functa to ImageNet Classification and Generation [[PDF](https://arxiv.org/abs/2302.03130)] [[Code](https://github.com/samuelepapa/spatial_functa)]
+- From MLP to NeoMLP: Leveraging Self-Attention for Neural Fields [[PDF](https://arxiv.org/abs/2412.08731)] [[Code](https://github.com/mkofinas/neomlp)]
+- **[NeurIPS 20]** Graf: Generative radiance fields for 3d-aware image synthesis [[PDF](https://arxiv.org/abs/2007.02442)] [[Code](https://github.com/autonomousvision/graf)]
+- **[CVPR 21]** pi-gan: Periodic implicit generative adversarial networks for 3d-aware image synthesis [[PDF](https://arxiv.org/abs/2012.00926)] [[Code](https://github.com/ssumin6/pigan)]
+- **[ICCV 23]** HyperDiffusion: Generating Implicit Neural Fields with Weight-Space Diffusion [[PDF](https://arxiv.org/abs/2303.17015)] [[Code](https://ziyaerkoc.com/hyperdiffusion/)]
+- **[ECCV 24]** Neural Metamorphosis [[PDF](https://arxiv.org/abs/2410.11878)] [[Code](https://adamdad.github.io/neumeta/)]
+- **[CVPR 25]** End-to-End Implicit Neural Representations for Classification [[PDF](https://arxiv.org/abs/2503.18123)] [[Code](https://github.com/SanderGielisse/MWT)]
+
+### Model Unification
+- **[NeurIPS 21]** Learning signal-agnostic manifolds of neural fields [[PDF](https://arxiv.org/abs/2111.06387)] [[Code](https://github.com/yilundu/gem)]
+- **[ICML 22]** From data to functa: Your data point is a function and you can treat it like one [[PDF](https://arxiv.org/abs/2201.12204)] [[Code](https://github.com/JurrivhLeon/Functa_pytorch_version)]
+- Spatial Functa: Scaling Functa to ImageNet Classification and Generation [[PDF](https://arxiv.org/abs/2302.03130)] [[Code](https://github.com/samuelepapa/spatial_functa)]
+- GNN-based Unified Deep Learning [[PDF](https://arxiv.org/abs/2508.10583)] [[Code](https://github.com/basiralab/uGNN)]
+
+### Continual Leanring
+- **[ICLR 20]** Continual learning with hypernetworks [[PDF](https://arxiv.org/abs/1906.00695)] [[Code](https://github.com/chrhenning/hypercl)]
+- **[NeurIPS 24]** Weight Diffusion for Future: Learn to Generalize in Non-Stationary Environments [[PDF](https://proceedings.neurips.cc/paper_files/paper/2024/hash/0c1124bd3be769dacf491d92d499c7d8-Abstract-Conference.html)] [[Code](https://github.com/BIT-DA/W-Diff)]
+- **[2025]** Continual Adaptation: Environment-Conditional Parameter Generation for Object Detection in Dynamic Scenarios [[PDF](https://arxiv.org/abs/2506.24063)]
+
+### Meta Learning
+- **[AAAI 24]** MetaDiff: Meta-Learning with Conditional Diffusion for Few-Shot Learning [[PDF](https://arxiv.org/abs/2307.16424?utm_source=chatgpt.com)]
+- Learning to Learn Weight Generation via Local Consistency Diffusion [[PDF](https://arxiv.org/abs/2502.01117)]
+- **[NeurIPS-ML 21]** Meta-learning via hypernetworks [[PDF](https://meta-learn.github.io/2020/papers/38_paper.pdf)]
+
+### Federated Learning
+- **[CIKM 24]** Beyond Aggregation: Efficient Federated Model Consolidation with Heterogeneity-Adaptive Weights Diffusion [[PDF](https://dl.acm.org/doi/10.1145/3627673.3679879)]
+- **[ICML 21]** Personalized Federated Learning using Hypernetworks [[PDF](https://arxiv.org/abs/2103.04628)] [[Code](https://github.com/AvivSham/pFedHN)]
+- **[AAAI 25]** pFedGPA: Diffusion-based Generative Parameter Aggregation for Personalized Federated Learning [[PDF](https://arxiv.org/abs/2409.05701)]
+
+### Neural Architecture Search
+- **[ICLR 19]** Graph HyperNetworks for Neural Architecture Search [[PDF](https://arxiv.org/abs/1810.05749)]
+- **[NeurIPS 21]** Parameter prediction for unseen deep architectures [[PDF](https://arxiv.org/abs/2110.13100)] [[Code](https://github.com/facebookresearch/ppuda)]
+
+
+## Benchmarks
+
+
+- **[NeurIPS 22]** Model Zoos: A Dataset of Diverse Populations of Neural Network Models [[PDF](https://arxiv.org/abs/2209.14764)] [[Code](https://github.com/ModelZoos/ModelZooDataset)]
+- **[ICLR-SNN 23]** Sparsified Model Zoo Twins: Investigating Populations of Sparsified Neural Network Models [[PDF](https://arxiv.org/abs/2304.13718)] [[Code](https://github.com/ModelZoos/ModelZooDataset)]
+- **[EDBT 25]** Model Lakes [[PDF](https://arxiv.org/abs/2403.02327)]
+- **[ICLR 25]** Unsupervised Model Tree Heritage Recovery [[PDF](https://arxiv.org/abs/2405.18432)] [[Code](https://horwitz.ai/mother)]
+- **[NeurIPS 24]** Implicit-Zoo: A Large-Scale Dataset of Neural Implicit Functions for 2D Images and 3D Scenes [[PDF](https://arxiv.org/abs/2406.17438)] [[Code](https://github.com/qimaqi/Implicit-Zoo/)]
+- **[NeurIPS 24]** Interpreting the Weight Space of Customized Diffusion Models [[PDF](https://arxiv.org/abs/2406.09413)] [[Code](https://snap-research.github.io/weights2weights/)]
+- Model Zoos for Benchmarking Phase Transitions in Neural Networks [[PDF](https://openreview.net/forum?id=JlkqReTftJ)]
+- We Should Chart an Atlas of All the World's Models [[PDF](https://arxiv.org/abs/2503.10633)] [[Code](https://horwitz.ai/model-atlas)]
+- Scaling LLaNA: Advancing NeRF-Language Understanding Through Large-Scale Training [[PDF](https://arxiv.org/abs/2504.13995)] [[Code](https://andreamaduzzi.github.io/llana/)]
+- **[ICLR-WSL 25]** A Model Zoo of Vision Transformers [[PDF](https://arxiv.org/abs/2504.10231)] [[Code](http://github.com/ModelZoos/ViTModelZoo)]
+- **[Electronics]** An Open Dataset of Neural Networks for Hypernetwork Research [[PDF](https://www.mdpi.com/2079-9292/14/14/2831)]
+- **[ICCS 25]** Towards Weight-Space Interpretation of Low-Rank Adapters for Diffusion Models [[PDF](https://www.iccs-meeting.org/archive/iccs2025/papers/159030108.pdf)]
+
+
+## Others
+
+
+### Survey
+
+
+- A Brief Review of Hypernetworks in Deep Learning [[PDF](https://arxiv.org/abs/2306.06955)]
+- Implicit Neural Representation in Medical Imaging: A Comparative Survey [[PDF](https://arxiv.org/abs/2307.16142)]
+- Learning from Models Beyond Fine-Tuning [[PDF](https://www.nature.com/articles/s42256-024-00961-0)]
+- Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities [[PDF](https://arxiv.org/abs/2408.07666)]
+- Where Do We Stand with Implicit Neural Representations? A Technical and Performance Survey [[PDF](https://arxiv.org/abs/2411.03688)]
+- Symmetry in Neural Network Parameter Spaces [[PDF](https://arxiv.org/abs/2506.13018)]
+
+
+### Thesis
+
+
+- **[PhD Thesis]** Hyper-Representations: Learning from Populations of Neural Networks [[PDF](https://arxiv.org/abs/2410.05107)]
+- **[PhD Thesis]** Acquiring and Adapting Priors for Novel Tasks via Neural Meta-Architectures [[PDF](https://arxiv.org/abs/2507.10446)]
+- **[MSc Thesis]** Geometric Flow Models over Neural Network Weights [[PDF](https://arxiv.org/abs/2504.03710)] [[Code](https://github.com/ege-erdogan/weightflow)]
+
+
+
+<!-- - **[]**  [[PDF]()] [[Code]()] -->
 <!-- ## Weight Space Understanding
 
 
@@ -474,45 +561,3 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - **[NeurIPS 20]** Meta-Consolidation for Continual Learning [[PDF](https://arxiv.org/abs/2010.00352)] [[Code](https://github.com/JosephKJ/merlin)]
 - **[CVPR 25]** PLeaS — Merging Models with Permutations and Least Squares [[PDF](https://arxiv.org/abs/2407.02447)] [[Code](https://github.com/SewoongLab/PLeaS-Merging)] -->
 
-
-## Others
-
-
-### Model Zoo
-
-
-- **[NeurIPS 22]** Model Zoos: A Dataset of Diverse Populations of Neural Network Models [[PDF](https://arxiv.org/abs/2209.14764)] [[Code](https://github.com/ModelZoos/ModelZooDataset)]
-- **[ICLR-SNN 23]** Sparsified Model Zoo Twins: Investigating Populations of Sparsified Neural Network Models [[PDF](https://arxiv.org/abs/2304.13718)] [[Code](https://github.com/ModelZoos/ModelZooDataset)]
-- **[EDBT 25]** Model Lakes [[PDF](https://arxiv.org/abs/2403.02327)]
-- **[ICLR 25]** Unsupervised Model Tree Heritage Recovery [[PDF](https://arxiv.org/abs/2405.18432)] [[Code](https://horwitz.ai/mother)]
-- **[NeurIPS 24]** Implicit-Zoo: A Large-Scale Dataset of Neural Implicit Functions for 2D Images and 3D Scenes [[PDF](https://arxiv.org/abs/2406.17438)] [[Code](https://github.com/qimaqi/Implicit-Zoo/)]
-- **[NeurIPS 24]** Interpreting the Weight Space of Customized Diffusion Models [[PDF](https://arxiv.org/abs/2406.09413)] [[Code](https://snap-research.github.io/weights2weights/)]
-- Model Zoos for Benchmarking Phase Transitions in Neural Networks [[PDF](https://openreview.net/forum?id=JlkqReTftJ)]
-- We Should Chart an Atlas of All the World's Models [[PDF](https://arxiv.org/abs/2503.10633)] [[Code](https://horwitz.ai/model-atlas)]
-- Scaling LLaNA: Advancing NeRF-Language Understanding Through Large-Scale Training [[PDF](https://arxiv.org/abs/2504.13995)] [[Code](https://andreamaduzzi.github.io/llana/)]
-- **[ICLR-WSL 25]** A Model Zoo of Vision Transformers [[PDF](https://arxiv.org/abs/2504.10231)] [[Code](http://github.com/ModelZoos/ViTModelZoo)]
-- **[Electronics]** An Open Dataset of Neural Networks for Hypernetwork Research [[PDF](https://www.mdpi.com/2079-9292/14/14/2831)]
-- **[ICCS 25]** Towards Weight-Space Interpretation of Low-Rank Adapters for Diffusion Models [[PDF](https://www.iccs-meeting.org/archive/iccs2025/papers/159030108.pdf)]
-
-
-### Survey
-
-
-- A Brief Review of Hypernetworks in Deep Learning [[PDF](https://arxiv.org/abs/2306.06955)]
-- Implicit Neural Representation in Medical Imaging: A Comparative Survey [[PDF](https://arxiv.org/abs/2307.16142)]
-- Learning from Models Beyond Fine-Tuning [[PDF](https://www.nature.com/articles/s42256-024-00961-0)]
-- Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities [[PDF](https://arxiv.org/abs/2408.07666)]
-- Where Do We Stand with Implicit Neural Representations? A Technical and Performance Survey [[PDF](https://arxiv.org/abs/2411.03688)]
-- Symmetry in Neural Network Parameter Spaces [[PDF](https://arxiv.org/abs/2506.13018)]
-
-
-### Thesis
-
-
-- **[PhD Thesis]** Hyper-Representations: Learning from Populations of Neural Networks [[PDF](https://arxiv.org/abs/2410.05107)]
-- **[PhD Thesis]** Acquiring and Adapting Priors for Novel Tasks via Neural Meta-Architectures [[PDF](https://arxiv.org/abs/2507.10446)]
-- **[MSc Thesis]** Geometric Flow Models over Neural Network Weights [[PDF](https://arxiv.org/abs/2504.03710)] [[Code](https://github.com/ege-erdogan/weightflow)]
-
-
-
-<!-- - **[]**  [[PDF]()] [[Code]()] -->
