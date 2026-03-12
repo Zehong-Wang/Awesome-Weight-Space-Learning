@@ -222,7 +222,7 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 
 #### Generative Models
 
-
+- **[ICLR 26]** Weight-Space Linear Recurrent Neural Networks [[PDF](https://arxiv.org/abs/2506.01153)] [[Code](https://github.com/ddrous/warp)]
 - **[NeurIPS 21]** Self-supervised representation learning on neural network weights for model characteristic prediction [[PDF](https://arxiv.org/abs/2110.15288)] [[Code](https://github.com/HSG-AIML/NeurIPS_2021-Weight_Space_Learning)]
 - **[NeurIPS 22]** Hyper-Representations as Generative Models: Sampling Unseen Neural Network Weights [[PDF](https://arxiv.org/abs/2209.14733)] [[Code](https://github.com/HSG-AIML/NeurIPS_2022-Generative_Hyper_Representations)]
 - **[ICLR-WSL 25]** Instruction-Guided Autoregressive Neural Network Parameter Generation [[PDF](https://arxiv.org/abs/2504.02012)]
