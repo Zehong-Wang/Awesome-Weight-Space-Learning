@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the survey and this repository."
+title: "Awesome-Weight-Space-Learning"
+type: software
+authors:
+  - family-names: Han
+    given-names: Xiaolong
+  - family-names: Wang
+    given-names: Zehong
+  - family-names: Zhao
+    given-names: Bo
+  - family-names: Zhang
+    given-names: Binchi
+  - family-names: Li
+    given-names: Jundong
+  - family-names: Borth
+    given-names: Damian
+  - family-names: Yu
+    given-names: Rose
+  - family-names: Maron
+    given-names: Haggai
+  - family-names: Ye
+    given-names: Yanfang
+  - family-names: Yin
+    given-names: Lu
+  - family-names: Neri
+    given-names: Ferrante
+repository-code: "https://github.com/Zehong-Wang/Awesome-Weight-Space-Learning"
+url: "https://github.com/Zehong-Wang/Awesome-Weight-Space-Learning"
+preferred-citation:
+  type: article
+  title: "A Survey of Weight Space Learning: Understanding, Representation, and Generation"
+  authors:
+    - family-names: Han
+      given-names: Xiaolong
+    - family-names: Wang
+      given-names: Zehong
+    - family-names: Zhao
+      given-names: Bo
+    - family-names: Zhang
+      given-names: Binchi
+    - family-names: Li
+      given-names: Jundong
+    - family-names: Borth
+      given-names: Damian
+    - family-names: Yu
+      given-names: Rose
+    - family-names: Maron
+      given-names: Haggai
+    - family-names: Ye
+      given-names: Yanfang
+    - family-names: Yin
+      given-names: Lu
+    - family-names: Neri
+      given-names: Ferrante
+  journal: "arXiv preprint arXiv:2603.10090"
+  year: 2026
