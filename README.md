@@ -1,6 +1,7 @@
 # Awesome-Weight-Space-Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This repo will be continuously updated. Don't forget to star it and keep tuned!
+[![arXiv](https://img.shields.io/badge/arXiv-2501.01234-b31b1b.svg)](https://arxiv.org/abs/2603.10090)
 
 ## Weight Space Learning
 
