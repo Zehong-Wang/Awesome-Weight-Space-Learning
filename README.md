@@ -251,6 +251,7 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - **[2025]** Recurrent Diffusion for Large-Scale Parameter Generation [[PDF](https://arxiv.org/abs/2501.11587)] [[Code](https://github.com/NUS-HPC-AI-Lab/Recurrent-Parameter-Generation)]
 - **[2025]** ORAL: Prompting Your Large-Scale LoRAs via Conditional Recurrent Diffusion [[PDF](https://arxiv.org/abs/2503.24354)]
 - **[ICLR 25]** Diffusion-Based Neural Network Weights Generation [[PDF](https://arxiv.org/abs/2402.18153)] [[Code](https://openreview.net/forum?id=j8WHjM9aMm)]
+- **[ICLR 26]** LoRAGen: Structure-Aware Weight Space Learning for LoRA Generation [[PDF](https://openreview.net/pdf?id=mrafO7aTYj)]
 
 
 ### Practical Implications
