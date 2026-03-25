@@ -151,6 +151,7 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 - **[ICLR 24]** Graph Metanetworks for Processing Diverse Neural Architectures [[PDF](https://arxiv.org/abs/2312.04501)]
 - **[NeurIPS 24]** Scale equivariant graph metanetworks [[PDF](https://arxiv.org/abs/2406.10685)] [[Code](https://github.com/jkalogero/scalegmn)]
 - **[2025]** Weight Space Representation Learning on Diverse NeRF Architectures [[PDF](https://arxiv.org/abs/2502.09623)]
+- **[CVPR 2026]** Weight Space Representation Learning via Neural Field Adaptation [[PDF](https://arxiv.org/abs/2512.01759)] [[Code](https://github.com/inrainbws/wsr.pytorch)]
 
 #### Model-free
 
