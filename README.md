@@ -7,6 +7,7 @@ This repo will be continuously updated. Don't forget to star it and keep tuned!
 [![arXiv](https://img.shields.io/badge/arXiv-2603.10090-b31b1b.svg)](https://arxiv.org/abs/2603.10090)
 [![GitHub stars](https://img.shields.io/github/stars/Zehong-Wang/Awesome-Weight-Space-Learning?style=social)](https://github.com/Zehong-Wang/Awesome-Weight-Space-Learning)
 [![Last Commit](https://img.shields.io/github/last-commit/Zehong-Wang/Awesome-Weight-Space-Learning)](https://github.com/Zehong-Wang/Awesome-Weight-Space-Learning)
+[![oosmetrics](https://api.oosmetrics.com/api/v1/badge/achievement/f252de44-3069-4455-8607-d5cd0f69d627.svg)](https://oosmetrics.com/repo/Zehong-Wang/Awesome-Weight-Space-Learning)
 
 
 
