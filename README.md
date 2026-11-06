@@ -70,6 +70,7 @@ Weight Space Learning is a research perspective that shifts focus from studying 
 #### Invariance
 
 
+- **[2026 preprint]** Consistency Is Not Understanding: Orbit Audits for Neural Field Weight Readers [[PDF](https://arxiv.org/abs/2611.05798)]
 - **[ICML 24]** Improved generalization of weight space networks via augmentations [[PDF](https://arxiv.org/abs/2402.04081)] [[Code](https://github.com/AvivSham/deep-weight-space-augmentations)]
 - **[NeurIPS-NeurReps 23]** Data Augmentations in Deep Weight Spaces [[PDF](https://arxiv.org/abs/2311.08851)]
 - **[2021]** Lossless Compression of Structured Convolutional Models via Lifting [[PDF](https://arxiv.org/abs/2007.06567)] [[Code](https://github.com/GustikS/NeuraLifting)]
